@@ -103,8 +103,6 @@ An ERP system designed for comprehensive business management, currently being de
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedelmahdy&langs_count=10&theme=gotham&text_color=fff&layout=compact)
 
-### GitHub History
-![GitHub History](https://raw.githubusercontent.com/Sayedelmahdy/Sayedelmahdy/output/snake.svg)
 
 ---
 
