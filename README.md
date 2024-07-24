@@ -11,40 +11,21 @@
 <br />
 
 ---
+## Tech Stack 🛠 
 
-### 🔧 Technical Skills
-
-#### Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![Python](https://img.shields.io/badge/Python%203-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-#### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
-
-#### Database Management
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Database Management](https://img.shields.io/badge/Database%20Management-4d008f?style=for-the-badge)
-
-#### Other Skills
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-ffa804?style=for-the-badge)
-![C/C++](https://img.shields.io/badge/C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java%208-06305b?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Relational Algebra](https://img.shields.io/badge/Relational%20Algebra-800080?style=for-the-badge)
-![Query Optimization](https://img.shields.io/badge/Query%20Optimization-800080?style=for-the-badge)
-![Game Development](https://img.shields.io/badge/Game%20Development-800080?style=for-the-badge)
-
+<p align="center">  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="40" height="40"/> </a>  
+<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt=".NET Core" width="40" height="40"/> </a>  
+<a href="https://www.unity.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Unity_Technologies_Logo.svg/800px-Unity_Technologies_Logo.svg.png" alt="Unity" width="40" height="40"/> </a>  
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>  
+<a href="https://blazor.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Blazor_Logo.svg/1280px-Blazor_Logo.svg.png" alt="Blazor" width="40" height="40"/> </a>  
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>  
+<a href="https://www.sqlservercentral.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/SQL_Server_logo.svg/1280px-SQL_Server_logo.svg.png" alt="SQL Server" width="40" height="40"/> </a>  
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>  
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/> </a>  
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40"/> </a>  
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="40" height="40"/> </a>  
+</p>
 ---
 <p align="center">
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="Coding GIF" width="320px">
