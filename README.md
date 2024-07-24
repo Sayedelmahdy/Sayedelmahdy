@@ -1,93 +1,113 @@
-# Hi there, I'm Sayed Elmahdy!
-> Computer Science student at [El Shorouk Academy](https://www.sha.edu.eg/)
+# Sayed Elmahdy
 
-![Profile Banner](https://user-images.githubusercontent.com/56750726/123548968-bf2f3600-d76b-11eb-89b7-1a915e612e9b.png)
-
-## A Computer Science student and a .NET Core Developer!
+## Computer Science student and .NET Core Developer
 
 - 🌱 .NET Core
 - 🎮 Game Developer (Unity)
 - 👨‍💻 Problem Solver
-- 🚀 BackEnd Developer 
+- 🚀 BackEnd Developer
 
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1Hx9ra8fKD8HJQcJcWhFqrM-9KET2q-vW/view)*
-<br />
-
----
-
-### 🔧 Technical Skills
-
-#### Programming Languages
+### Technical Skills
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![Python](https://img.shields.io/badge/Python%203-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-#### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS4-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat)
+![C & C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718)
+![Java 8](https://img.shields.io/badge/-Java%208-06305b?style=flat&logo=java&logoColor=white)
+![Python 3](https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white)
+![Database Management](https://img.shields.io/badge/-Database%20Management-4d008f?style=flat)
+![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)
+![Java](https://img.shields.io/badge/-JAVA-3a495d?style=flat&logoColor=67b7f7)
 
-#### Database Management
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Database Management](https://img.shields.io/badge/Database%20Management-4d008f?style=for-the-badge)
+### Web Development
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%233b4d84.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Swiper](https://img.shields.io/badge/Swiper-%23f7f7f7.svg?style=for-the-badge&logo=swiper&logoColor=black)
 
-#### Other Skills
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-ffa804?style=for-the-badge)
-![C/C++](https://img.shields.io/badge/C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java%208-06305b?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+### A Little Bit About Me
+
+```csharp
+class SayedElmahdy : Person
+{
+    public SayedElmahdy()
+    {
+        Name = "Sayed Elmahdy";
+        Age = 24;
+        Work = new List<string> { "Backend Developer", "Game Developer", "Freelancer" };
+        Education = new List<string> { "Computer Science", "El Shorouk Academy" };
+        Hobbies = new List<string> { "Coding", "Gaming", "Problem Solving" };
+    }
+
+    public string CurrentLocation() => "Cairo, Egypt";
+
+    public Dictionary<string, List<string>> Currently() => new Dictionary<string, List<string>>
+    {
+        { "Studying", new List<string> { "Machine Learning", "Deep Learning", "Computer Vision" } },
+        { "Reading", new List<string> { "Deep Learning Book", "Design Patterns" } }
+    };
+}
+```
+
+## Projects
+
+### El-Burhan Academy Web Application
+**Overview:**  
+This repository showcases our contributions to the El-Burhan Academy Web Application, an educational platform focusing on the Arabic language, Holy Quran, and Forensic science.
+
+### Student Management System
+**Overview:**  
+Welcome to the Student Management System repository! This project is designed to facilitate student management for teachers of various subjects, including Arabic, Mathematics, English, Physics, Chemistry, Philosophy, and more. The system provides a centralized database for storing and efficiently managing student information.  
+*Built with the Art Of Coding team as Team Leader and Backend Developer.*
+
+### Electronic Mind of Alzheimer Patient
+**Project Overview:**  
+The Electronic Mind of Alzheimer Patient is an advanced healthcare management system tailored to assist caregivers in managing Alzheimer's patients. This application integrates real-time patient monitoring, appointment scheduling, and medication management across mobile platforms using Flutter, with a robust backend supported by FastAPI and AI capabilities for facial recognition.
+
+### Luka E-Commerce
+**Overview:**  
+Luka E-Commerce is a comprehensive platform similar to Amazon, developed with advanced features for a professional shopping experience. *Developed at Z4U Solution Software Company as both Backend and Frontend Developer, working with a team using Vue.js.*
+
+### Individual E-Commerce for Home Food
+**Overview:**  
+An e-commerce platform built with Blazor for both backend and frontend, specifically designed for home food businesses. *Built with the Art Of Coding team as Team Leader and Backend Developer.*
+
+### ERP System (Smart)
+**Overview:**  
+An ERP system designed for comprehensive business management, currently being developed at Z4U Solution Software Company. *Involved in both backend and frontend development.*
 
 ---
 
-### 🏆 Professional Experience
+## Additional Skills
 
-#### Z4U Solution Software Company
-- **Position**: Backend and Frontend Developer
-- **Projects**:
-  - **Luka E-Commerce**: An e-commerce platform similar to Amazon, where I work as a backend and frontend developer using Vue.js.
-  - **ERP System (Smart)**: An ERP system that I am developing as part of the Z4U Solution Software Company team.
+- Relational Algebra
+- Query Optimization
+- Game Development
+- Machine Learning
+- Deep Learning
+- Computer Vision
 
-#### Art Of Coding (Freelance Team)
-- **Role**: Team Leader and Backend Developer
-- **Projects**:
-  - **El-Burhan Academy Web Application**: An educational platform focusing on the Arabic language, Holy Quran, and Forensic science.
-  - **Student Management System**: A project designed to facilitate student management for teachers of various subjects.
-  - **Electronic Mind of Alzheimer Patient**: An advanced healthcare management system for managing Alzheimer's patients, integrating real-time patient monitoring, appointment scheduling, and medication management using Flutter and FastAPI.
-  - **Individual E-Commerce for Home Food**: An e-commerce platform built with Blazor for both backend and frontend.
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/sayed-elmahdy365/
+- Email: sayed.work223@gmail.com
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayedelmahdy&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=gotham)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedelmahdy&langs_count=10&theme=gotham&text_color=fff&layout=compact)
+
+### GitHub History
+![GitHub History](https://raw.githubusercontent.com/Sayedelmahdy/Sayedelmahdy/output/snake.svg)
 
 ---
-
-### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayedelmahdy&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Sayed Elmahdy's GitHub Stats">
+    ⭐️ From <a href="https://github.com/Sayedelmahdy/">Sayedelmahdy</a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedelmahdy&langs_count=10&theme=gotham&hide_border=true&layout=compact" alt="Sayed Elmahdy's Top Languages">
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sayed-elmahdy365/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@SayedElmahdy-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:sayed.work223@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sayed.work223@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="Coding GIF" width="320px">
-</p>
-
----
-
-⭐️ From [Sayedelmahdy](https://github.com/Sayedelmahdy/)
