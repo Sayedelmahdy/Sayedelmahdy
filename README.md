@@ -71,6 +71,9 @@ class SayedElmahdy : Person
 }
 ```
 
+<p align="center">
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="Coding GIF" width="320px">
+</p>
 
 ### 🏆 Professional Experience
 
@@ -97,8 +100,6 @@ class SayedElmahdy : Person
 - LinkedIn: https://www.linkedin.com/in/sayed-elmahdy365/
 - Email: sayed.work223@gmail.com
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayedelmahdy&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=gotham)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedelmahdy&langs_count=10&theme=gotham&text_color=fff&layout=compact)
