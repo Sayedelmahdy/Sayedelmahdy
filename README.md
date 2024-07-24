@@ -38,9 +38,9 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Relational Algebra](https://img.shields.io/badge/Relational%20Algebra-ffa804?style=for-the-badge)
-![Query Optimization](https://img.shields.io/badge/Query%20Optimization-ffa804?style=for-the-badge)
-![Game Development](https://img.shields.io/badge/Game%20Development-ffa804?style=for-the-badge)
+![Relational Algebra](https://img.shields.io/badge/Relational%20Algebra-800080?style=for-the-badge)
+![Query Optimization](https://img.shields.io/badge/Query%20Optimization-800080?style=for-the-badge)
+![Game Development](https://img.shields.io/badge/Game%20Development-800080?style=for-the-badge)
 
 ---
 
