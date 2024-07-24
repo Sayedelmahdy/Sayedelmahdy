@@ -9,33 +9,38 @@
 
 ---
 
-### Technical Skills
+### 🔧 Technical Skills
 
 #### Programming Languages
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white">
-<img src="https://img.shields.io/badge/Python%203-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Python](https://img.shields.io/badge/Python%203-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 #### Web Development
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
 
 #### Database Management
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-<img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=for-the-badge">
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Database Management](https://img.shields.io/badge/Database%20Management-4d008f?style=for-the-badge)
 
 #### Other Skills
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=for-the-badge">
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Java%208-06305b?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android">
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-ffa804?style=for-the-badge)
+![C/C++](https://img.shields.io/badge/C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java%208-06305b?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Relational Algebra](https://img.shields.io/badge/Relational%20Algebra-ffa804?style=for-the-badge)
+![Query Optimization](https://img.shields.io/badge/Query%20Optimization-ffa804?style=for-the-badge)
+![Game Development](https://img.shields.io/badge/Game%20Development-ffa804?style=for-the-badge)
 
 ---
 
