@@ -7,6 +7,8 @@
 - 👨‍💻 Problem Solver
 - 🚀 BackEnd Developer
 
+---
+
 ### Technical Skills
 
 #### Programming Languages
