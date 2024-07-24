@@ -95,15 +95,14 @@ class SayedElmahdy : Person
 ### GitHub History
 ![GitHub History](github-user-contribution.svg)
 
-## Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/sayed-elmahdy365/
-- Email: sayed.work223@gmail.com
-
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedelmahdy&langs_count=10&theme=gotham&text_color=fff&layout=compact)
 
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/sayed-elmahdy365/
+- Email: sayed.work223@gmail.com
 
 ---
 
