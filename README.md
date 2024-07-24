@@ -7,6 +7,9 @@
 - 👨‍💻 Problem Solver
 - 🚀 BackEnd Developer
 
+&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1QYXgmS1wIGfeeef6Yq5g63R_cCQ3AkzA/view?usp=sharing)*
+<br />
+
 ---
 
 ### 🔧 Technical Skills
@@ -96,15 +99,6 @@ An e-commerce platform built with Blazor for both backend and frontend, specific
 An ERP system designed for comprehensive business management, currently being developed at Z4U Solution Software Company. *Involved in both backend and frontend development.*
 
 ---
-
-## Additional Skills
-
-- Relational Algebra
-- Query Optimization
-- Game Development
-- Machine Learning
-- Deep Learning
-- Computer Vision
 
 
 ## Connect with Me
