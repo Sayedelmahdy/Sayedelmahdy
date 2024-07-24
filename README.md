@@ -92,7 +92,8 @@ class SayedElmahdy : Person
 
 ---
 
-
+### GitHub History
+![GitHub History](github-user-contribution.svg)
 
 ## Connect with Me
 
