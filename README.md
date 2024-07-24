@@ -46,6 +46,9 @@
 ![Game Development](https://img.shields.io/badge/Game%20Development-800080?style=for-the-badge)
 
 ---
+<p align="center">
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="Coding GIF" width="320px">
+</p>
 
 ### A Little Bit About Me
 
@@ -70,10 +73,6 @@ class SayedElmahdy : Person
     };
 }
 ```
-
-<p align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="Coding GIF" width="320px">
-</p>
 
 ### 🏆 Professional Experience
 
