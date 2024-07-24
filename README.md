@@ -55,7 +55,7 @@ class SayedElmahdy : Person
     public SayedElmahdy()
     {
         Name = "Sayed Elmahdy";
-        Age = 24;
+        Age = 23;
         Work = new List<string> { "Backend Developer", "Game Developer", "Freelancer" };
         Education = new List<string> { "Computer Science", "El Shorouk Academy" };
         Hobbies = new List<string> { "Coding", "Gaming", "Problem Solving" };
@@ -71,34 +71,25 @@ class SayedElmahdy : Person
 }
 ```
 
-## Projects
 
-### El-Burhan Academy Web Application
-**Overview:**  
-This repository showcases our contributions to the El-Burhan Academy Web Application, an educational platform focusing on the Arabic language, Holy Quran, and Forensic science.
+### 🏆 Professional Experience
 
-### Student Management System
-**Overview:**  
-Welcome to the Student Management System repository! This project is designed to facilitate student management for teachers of various subjects, including Arabic, Mathematics, English, Physics, Chemistry, Philosophy, and more. The system provides a centralized database for storing and efficiently managing student information.  
-*Built with the Art Of Coding team as Team Leader and Backend Developer.*
+#### Z4U Solution Software Company
+- **Position**: Backend and Frontend Developer
+- **Projects**:
+  - **Luka E-Commerce**: An e-commerce platform similar to Amazon, where I work as a backend and frontend developer using Vue.js.
+  - **ERP System (Smart)**: An ERP system that I am developing as part of the Z4U Solution Software Company team.
 
-### Electronic Mind of Alzheimer Patient
-**Project Overview:**  
-The Electronic Mind of Alzheimer Patient is an advanced healthcare management system tailored to assist caregivers in managing Alzheimer's patients. This application integrates real-time patient monitoring, appointment scheduling, and medication management across mobile platforms using Flutter, with a robust backend supported by FastAPI and AI capabilities for facial recognition.
-
-### Luka E-Commerce
-**Overview:**  
-Luka E-Commerce is a comprehensive platform similar to Amazon, developed with advanced features for a professional shopping experience. *Developed at Z4U Solution Software Company as both Backend and Frontend Developer, working with a team using Vue.js.*
-
-### Individual E-Commerce for Home Food
-**Overview:**  
-An e-commerce platform built with Blazor for both backend and frontend, specifically designed for home food businesses. *Built with the Art Of Coding team as Team Leader and Backend Developer.*
-
-### ERP System (Smart)
-**Overview:**  
-An ERP system designed for comprehensive business management, currently being developed at Z4U Solution Software Company. *Involved in both backend and frontend development.*
+#### Art Of Coding (Freelance Team)
+- **Role**: Team Leader and Backend Developer
+- **Projects**:
+  - **El-Burhan Academy Web Application**: An educational platform focusing on the Arabic language, Holy Quran, and Forensic science.
+  - **Student Management System**: A project designed to facilitate student management for teachers of various subjects.
+  - **Electronic Mind of Alzheimer Patient**: An advanced healthcare management system for managing Alzheimer's patients, integrating real-time patient monitoring, appointment scheduling, and medication management using Flutter and FastAPI.
+  - **Individual E-Commerce for Home Food**: An e-commerce platform built with Blazor for both backend and frontend.
 
 ---
+
 
 
 ## Connect with Me
@@ -106,7 +97,7 @@ An ERP system designed for comprehensive business management, currently being de
 - LinkedIn: https://www.linkedin.com/in/sayed-elmahdy365/
 - Email: sayed.work223@gmail.com
 
-### GitHub Stats
+### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sayedelmahdy&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=gotham)
 
 ### Top Languages
