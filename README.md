@@ -8,26 +8,34 @@
 - 🚀 BackEnd Developer
 
 ### Technical Skills
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat)
-![C & C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718)
-![Java 8](https://img.shields.io/badge/-Java%208-06305b?style=flat&logo=java&logoColor=white)
-![Python 3](https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white)
-![Database Management](https://img.shields.io/badge/-Database%20Management-4d008f?style=flat)
-![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)
-![Java](https://img.shields.io/badge/-JAVA-3a495d?style=flat&logoColor=67b7f7)
+#### Programming Languages
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white">
+<img src="https://img.shields.io/badge/Python%203-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 
-### Web Development
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%233b4d84.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Swiper](https://img.shields.io/badge/Swiper-%23f7f7f7.svg?style=for-the-badge&logo=swiper&logoColor=black)
+#### Web Development
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718">
+
+#### Database Management
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=for-the-badge">
+
+#### Other Skills
+<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=for-the-badge">
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Java%208-06305b?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=android">
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+
+---
 
 ### A Little Bit About Me
 
