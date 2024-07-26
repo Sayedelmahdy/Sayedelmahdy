@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # Sayed Elmahdy
 
 ## Computer Science student and .NET Core Developer
