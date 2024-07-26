@@ -91,6 +91,8 @@ class SayedElmahdy : Person
   - **Individual E-Commerce for Home Food**: An e-commerce platform built with Blazor for both backend and frontend.
 
 ---
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sayedelmahdy&theme=onedark)](https://github.com/Sayedelmahdy/github-profile-trophy)
 
 ### GitHub History
 ![GitHub History](github-user-contribution.svg)
