@@ -105,7 +105,7 @@ class SayedElmahdy : Person
 
 - LinkedIn 🔎: https://www.linkedin.com/in/sayed-elmahdy365/
 - Email 📧: sayed.work223@gmail.com
-- WhatsApp 📱:  ![](https://wa.me/201093307397)
+- WhatsApp 📱:  https://wa.me/201093307397
 
 ---
 
