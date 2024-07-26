@@ -50,7 +50,7 @@
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="Coding GIF" width="320px">
 </p>
 
-### A Little Bit About Me
+### 🧐 A Little Bit About Me
 
 ```csharp
 class SayedElmahdy : Person
@@ -74,15 +74,15 @@ class SayedElmahdy : Person
 }
 ```
 
-### 🏆 Professional Experience
+### 💼 Professional Experience
 
-#### Z4U Solution Software Company
+#### 🏬 Z4U Solution Software Company
 - **Position**: Backend and Frontend Developer
 - **Projects**:
   - **Luka E-Commerce**: An e-commerce platform similar to Amazon, where I work as a backend and frontend developer using Vue.js.
   - **ERP System (Smart)**: An ERP system that I am developing as part of the Z4U Solution Software Company team.
 
-#### Art Of Coding (Freelance Team)
+#### 🏬 Art Of Coding (Freelance Team)
 - **Role**: Team Leader and Backend Developer
 - **Projects**:
   - **El-Burhan Academy Web Application**: An educational platform focusing on the Arabic language, Holy Quran, and Forensic science.
@@ -91,20 +91,23 @@ class SayedElmahdy : Person
   - **Individual E-Commerce for Home Food**: An e-commerce platform built with Blazor for both backend and frontend.
 
 ---
-### GitHub Trophies
+### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sayedelmahdy&theme=onedark)](https://github.com/Sayedelmahdy/github-profile-trophy)
 
-### GitHub History
+### 📜 GitHub History
 ![GitHub History](github-user-contribution.svg)
 
 
-### Top Languages
+### </> Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedelmahdy&langs_count=10&theme=gotham&text_color=fff&layout=compact)
 
-## Connect with Me
+## 🤝 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/sayed-elmahdy365/
-- Email: sayed.work223@gmail.com
+- LinkedIn ![image](https://github.com/user-attachments/assets/567d130c-092b-48cf-a27f-15d262ba4dc8)
+: https://www.linkedin.com/in/sayed-elmahdy365/
+- Email 📧: sayed.work223@gmail.com
+- WhatsApp ![image](https://github.com/user-attachments/assets/0defa6b7-8ce1-46e3-9b64-3fdf812b0b1c)
+: +201093307397
 
 ---
 
