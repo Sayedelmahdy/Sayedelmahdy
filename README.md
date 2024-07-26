@@ -103,11 +103,9 @@ class SayedElmahdy : Person
 
 ## 🤝 Connect with Me
 
-- LinkedIn ![image](https://github.com/user-attachments/assets/567d130c-092b-48cf-a27f-15d262ba4dc8)
-: https://www.linkedin.com/in/sayed-elmahdy365/
+- LinkedIn 🔎: https://www.linkedin.com/in/sayed-elmahdy365/
 - Email 📧: sayed.work223@gmail.com
-- WhatsApp ![image](https://github.com/user-attachments/assets/0defa6b7-8ce1-46e3-9b64-3fdf812b0b1c)
-: +201093307397
+- WhatsApp 📱: +201093307397
 
 ---
 
