@@ -1,4 +1,4 @@
-[![MasterHead](./github-header-image.png)]
+![MasterHead](./github-header-image.png)
 # Sayed Elmahdy
 
 ## Computer Science student and .NET Core Developer
