@@ -1,4 +1,4 @@
-<div align="center"><a>![MasterHead](./github-header-image.png)</a></div>
+<div align="center"><img src="./github-header-image.png"></div>
 <h1 align="center">Hello, I'm Sayed Elmahdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">Computer Science student and .NET Core Developer 🌍</h3>
 
