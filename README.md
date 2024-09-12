@@ -9,7 +9,7 @@
 - 👨‍💻 Problem Solver
 - 🚀 BackEnd Developer
 
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1QYXgmS1wIGfeeef6Yq5g63R_cCQ3AkzA/view?usp=sharing)*
+&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1bv1Nby3fbytrQT1fWo02NVi4l8VcKvP2/view?usp=sharing)*
 <br />
 
 ---
