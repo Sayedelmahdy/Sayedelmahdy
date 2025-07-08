@@ -138,7 +138,6 @@ public class SayedElmahdy : Developer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayedelmahdy&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedelmahdy&layout=compact&theme=gotham&hide_border=true&langs_count=8" alt="Top Languages" height="165">
 </div>
 
