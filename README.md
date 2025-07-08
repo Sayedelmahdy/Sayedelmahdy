@@ -158,11 +158,6 @@ public class SayedElmahdy : Developer
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayedelmahdy&theme=gotham&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph">
 </div>
 
-### 💡 GitHub Metrics
-<div align="center">
-  <img src="https://metrics.lecoq.io/Sayedelmahdy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FCairo" alt="GitHub Metrics">
-</div>
-
 ### 🎯 Profile Summary
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayedelmahdy&theme=gotham" alt="Profile Summary">
@@ -190,6 +185,35 @@ public class SayedElmahdy : Developer
 </div>
 
 ---
+
+## 🎨 Alternative Themes You Can Use:
+
+### Dark Themes:
+- `theme=dark` - Classic dark theme
+- `theme=radical` - Purple/pink gradient
+- `theme=merko` - Green matrix style
+- `theme=gruvbox` - Warm dark theme
+- `theme=tokyonight` - Modern dark blue
+- `theme=onedark` - Atom editor inspired
+- `theme=cobalt` - Blue focused theme
+- `theme=synthwave` - Neon purple/pink
+- `theme=dracula` - Popular vampire theme
+
+### Light Themes:
+- `theme=default` - GitHub's default
+- `theme=graywhite` - Clean minimal
+- `theme=flag-india` - Tricolor theme
+- `theme=buefy` - Soft blue/green
+
+### Custom Color Examples:
+```markdown
+
+&bg_color=0D1117&text_color=58A6FF&icon_color=1F6FEB&border_color=30363D
+
+
+&bg_color=DEG,COLOR1,COLOR2,COLOR3...
+&bg_color=45,fc00ff,00dbde
+```
 
 ### 👀 Profile Views
 <div align="center">
