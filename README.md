@@ -135,17 +135,48 @@ public class SayedElmahdy : Developer
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
+### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedelmahdy&layout=compact&theme=gotham&hide_border=true&langs_count=8" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayedelmahdy&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedelmahdy&layout=compact&theme=gotham&hide_border=true&langs_count=10&exclude_repo=repo1,repo2" alt="Top Languages" height="165">
+</div>
+
+### 🔥 GitHub Streak Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sayedelmahdy&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats">
 </div>
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayedelmahdy&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayedelmahdy&theme=onedark&no-frame=true&no-bg=true&row=2&column=3" alt="GitHub Trophies">
 </div>
 
+### 📊 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayedelmahdy&theme=gotham&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph">
+</div>
+
+### 💡 GitHub Metrics
+<div align="center">
+  <img src="https://metrics.lecoq.io/Sayedelmahdy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FCairo" alt="GitHub Metrics">
+</div>
+
+### 🎯 Profile Summary
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayedelmahdy&theme=gotham" alt="Profile Summary">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayedelmahdy&theme=gotham" alt="Repos per Language" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayedelmahdy&theme=gotham" alt="Most Commit Language" height="180">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sayedelmahdy&theme=gotham" alt="Stats" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sayedelmahdy&theme=gotham&utcOffset=2" alt="Productive Time" height="180">
+</div>
 ---
 
 ## 🤝 Let's Connect
@@ -160,9 +191,12 @@ public class SayedElmahdy : Developer
 
 ---
 
+### 👀 Profile Views
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sayedelmahdy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Sayedelmahdy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Sayedelmahdy?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
 </div>
+
 
 <p align="center">
     ⭐️ From <a href="https://github.com/Sayedelmahdy/">Sayedelmahdy</a>
