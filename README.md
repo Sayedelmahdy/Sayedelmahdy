@@ -186,34 +186,6 @@ public class SayedElmahdy : Developer
 
 ---
 
-## 🎨 Alternative Themes You Can Use:
-
-### Dark Themes:
-- `theme=dark` - Classic dark theme
-- `theme=radical` - Purple/pink gradient
-- `theme=merko` - Green matrix style
-- `theme=gruvbox` - Warm dark theme
-- `theme=tokyonight` - Modern dark blue
-- `theme=onedark` - Atom editor inspired
-- `theme=cobalt` - Blue focused theme
-- `theme=synthwave` - Neon purple/pink
-- `theme=dracula` - Popular vampire theme
-
-### Light Themes:
-- `theme=default` - GitHub's default
-- `theme=graywhite` - Clean minimal
-- `theme=flag-india` - Tricolor theme
-- `theme=buefy` - Soft blue/green
-
-### Custom Color Examples:
-```markdown
-
-&bg_color=0D1117&text_color=58A6FF&icon_color=1F6FEB&border_color=30363D
-
-
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...
-&bg_color=45,fc00ff,00dbde
-```
 
 ### 👀 Profile Views
 <div align="center">
