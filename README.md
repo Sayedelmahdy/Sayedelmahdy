@@ -2,7 +2,8 @@
 <h1 align="center">Hello, I'm Sayed Elmahdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <h3 align="center">Computer Science Student & .NET Core Developer 🌍</h3>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Backend+Developer;.NET+Core+Specialist;Problem+Solver;Game+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=600&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Backend+Developer;💻+.NET+Core+Specialist;🧩+Problem+Solver;🎮+Game+Developer;⚡+Always+Learning+New+Tech" alt="Typing SVG" />
+
 </div>
 
 <p align="center">
