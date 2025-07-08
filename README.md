@@ -30,30 +30,64 @@ Computer Science student and passionate .NET Core Developer with experience in b
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+### Backend Development
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0078d4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-FF6600?style=for-the-badge&logo=signalr&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Frameworks & Technologies
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0078d4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-FF6600?style=for-the-badge&logo=signalr&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+### Cloud & DevOps
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Database & Caching
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+### Security & Authentication
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
 
 ### Development Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Architecture & Design Patterns
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-4285F4?style=for-the-badge)
+![Unit of Work](https://img.shields.io/badge/Unit%20of%20Work-FF6B6B?style=for-the-badge)
+![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-4ECDC4?style=for-the-badge)
+![Factory Pattern](https://img.shields.io/badge/Factory%20Pattern-45B7D1?style=for-the-badge)
+![Singleton Pattern](https://img.shields.io/badge/Singleton%20Pattern-96CEB4?style=for-the-badge)
+![Strategy Pattern](https://img.shields.io/badge/Strategy%20Pattern-FECA57?style=for-the-badge)
+![Observer Pattern](https://img.shields.io/badge/Observer%20Pattern-FF9FF3?style=for-the-badge)
+![Builder Pattern](https://img.shields.io/badge/Builder%20Pattern-54A0FF?style=for-the-badge)
+![Adapter Pattern](https://img.shields.io/badge/Adapter%20Pattern-5F27CD?style=for-the-badge)
+![Command Pattern](https://img.shields.io/badge/Command%20Pattern-00D2D3?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-C44569?style=for-the-badge)
+![MVC Pattern](https://img.shields.io/badge/MVC%20Pattern-F8B500?style=for-the-badge)
+
+
+### Monitoring & Logging
+![Serilog](https://img.shields.io/badge/Serilog-1BA0D7?style=for-the-badge)
+![Application Insights](https://img.shields.io/badge/Application%20Insights-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
+### Mobile & Game Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
