@@ -1,128 +1,135 @@
 <div align="center"><img src="./github-header-image.png"></div>
 <h1 align="center">Hello, I'm Sayed Elmahdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<h3 align="center">Computer Science student and .NET Core Developer 🌍</h3>
+<h3 align="center">Computer Science Student & .NET Core Developer 🌍</h3>
 
-## Computer Science student and .NET Core Developer
-
-- 🌱 .NET Core
-- 🎮 Game Developer (Unity)
-- 👨‍💻 Problem Solver
-- 🚀 BackEnd Developer
-
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1bv1Nby3fbytrQT1fWo02NVi4l8VcKvP2/view?usp=sharing)*
-<br />
-
----
-
-### 🔧 Technical Skills
-
-#### Programming Languages
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![Python](https://img.shields.io/badge/Python%203-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-#### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=eed718)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
-
-#### Database Management
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Database Management](https://img.shields.io/badge/Database%20Management-4d008f?style=for-the-badge)
-
-
-### Technologies
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-fff?style=flat&logo=.net&logoColor=blue)
-![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-fff?style=flat&logo=Microsoft&logoColor=0078D7)
-![SignalR](https://img.shields.io/badge/-SignalR-fff?style=flat&logo=signalr&logoColor=blue)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
-![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
-![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
-![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
-![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
-![Redis (Caching)](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### Other Skills
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-ffa804?style=for-the-badge)
-![C/C++](https://img.shields.io/badge/C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java%208-06305b?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Relational Algebra](https://img.shields.io/badge/Relational%20Algebra-800080?style=for-the-badge)
-![Query Optimization](https://img.shields.io/badge/Query%20Optimization-800080?style=for-the-badge)
-![Game Development](https://img.shields.io/badge/Game%20Development-800080?style=for-the-badge)
-
----
 <p align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/tenor.gif" alt="Coding GIF" width="320px">
+  <a href="https://www.linkedin.com/in/sayed-elmahdy365/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sayed.work223@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/201093307397"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
-### 🧐 A Little Bit About Me
+## 👨‍💻 About Me
+
+Computer Science student and passionate .NET Core Developer with experience in backend development, game development, and problem-solving. I enjoy creating scalable web applications and exploring new technologies.
+
+- 🎓 **Education**: Computer Science at El Shorouk Academy
+- 🌱 **Currently Learning**: Machine Learning, Deep Learning, Computer Vision
+- 🎮 **Interests**: Game Development (Unity), Backend Architecture, Problem Solving
+- 📍 **Location**: Cairo, Egypt
+
+&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1bv1Nby3fbytrQT1fWo02NVi4l8VcKvP2/view?usp=sharing)*
+
+---
+
+## 🛠️ Technical Skills
+
+### Core Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Frameworks & Technologies
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-0078d4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-FF6600?style=for-the-badge&logo=signalr&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+### Database & Caching
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Development Tools
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🧐 A Little Bit About Me
 
 ```csharp
-class SayedElmahdy : Person
+public class SayedElmahdy : Developer
 {
     public SayedElmahdy()
     {
         Name = "Sayed Elmahdy";
         Age = 23;
-        Work = new List<string> { "Backend Developer", "Game Developer", "Freelancer" };
+        Roles = new List<string> { "Backend Developer", "Game Developer", "Freelancer" };
         Education = new List<string> { "Computer Science", "El Shorouk Academy" };
         Hobbies = new List<string> { "Coding", "Gaming", "Problem Solving" };
+        Specialization = ".NET Core Development";
     }
 
-    public string CurrentLocation() => "Cairo, Egypt";
+    public string GetLocation() => "Cairo, Egypt";
 
-    public Dictionary<string, List<string>> Currently() => new Dictionary<string, List<string>>
+    public Dictionary<string, List<string>> CurrentlyWorking() => new()
     {
-        { "Studying", new List<string> { "Machine Learning", "Deep Learning", "Computer Vision" } },
-        { "Reading", new List<string> { "Deep Learning Book", "Design Patterns" } }
+        { "Learning", new() { "Machine Learning", "Deep Learning", "Computer Vision" } },
+        { "Reading", new() { "Deep Learning Book", "Design Patterns" } },
+        { "Building", new() { "ERP Systems", "E-Commerce Platforms", "Game Projects" } }
     };
 }
 ```
 
-### 💼 Professional Experience
+---
 
-#### 🏬 Z4U Solution Software Company
-- **Position**: Backend and Frontend Developer
-- **Projects**:
-  - **Luka E-Commerce**: An e-commerce platform similar to Amazon, where I work as a backend and frontend developer using Vue.js.
-  - **ERP System (Smart)**: An ERP system that I am developing as part of the Z4U Solution Software Company team.
+## 💼 Professional Experience
 
-#### 🏬 Art Of Coding (Freelance Team)
-- **Role**: Team Leader and Backend Developer
-- **Projects**:
-  - **El-Burhan Academy Web Application**: An educational platform focusing on the Arabic language, Holy Quran, and Forensic science.
-  - **Student Management System**: A project designed to facilitate student management for teachers of various subjects.
-  - **Electronic Mind of Alzheimer Patient**: An advanced healthcare management system for managing Alzheimer's patients, integrating real-time patient monitoring, appointment scheduling, and medication management using Flutter and FastAPI.
-  - **Individual E-Commerce for Home Food**: An e-commerce platform built with Blazor for both backend and frontend.
+### 🏢 Z4U Solution Software Company
+**Backend & Frontend Developer**
+- **Luka E-Commerce Platform**: Full-stack development of Amazon-like e-commerce platform using Vue.js frontend and .NET backend
+- **Smart ERP System**: Contributing to enterprise resource planning system development as part of the development team
+
+### 👥 Art Of Coding (Freelance Team)
+**Team Leader & Backend Developer**
+- **El-Burhan Academy**: Educational web application for Arabic language, Holy Quran, and Forensic science studies
+- **Student Management System**: Comprehensive platform for teachers to manage students across various subjects
+- **Alzheimer Care Management**: Advanced healthcare system with real-time monitoring, appointment scheduling, and medication management (Flutter + FastAPI)
+- **Home Food E-Commerce**: Full-stack Blazor application for local food delivery business
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayedelmahdy&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedelmahdy&layout=compact&theme=gotham&hide_border=true&langs_count=8" alt="Top Languages" height="165">
+</div>
+
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sayedelmahdy&theme=onedark)](https://github.com/Sayedelmahdy/github-profile-trophy)
-
-### 📜 GitHub History
-![GitHub History](github-user-contribution.svg)
-
-
-### </> Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayedelmahdy&langs_count=10&theme=gotham&text_color=fff&layout=compact)
-
-## 🤝 Connect with Me
-
-- LinkedIn 🔎: https://www.linkedin.com/in/sayed-elmahdy365/
-- Email 📧: sayed.work223@gmail.com
-- WhatsApp 📱:  https://wa.me/201093307397
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sayedelmahdy&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
+</div>
 
 ---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-elmahdy365/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayed.work223@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201093307397)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sayedelmahdy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</div>
 
 <p align="center">
     ⭐️ From <a href="https://github.com/Sayedelmahdy/">Sayedelmahdy</a>
