@@ -45,7 +45,7 @@ I enjoy building scalable systems (ERP / e-commerce), designing clean architectu
 > **Status:** Military Service (Egypt) — Feb 2025 to Mar 2026 (Ongoing)  
 > I continue contributing to official internal systems and personal projects during this period.
 
-&nbsp; &nbsp; *[View My CV](YOUR_CV_LINK_HERE)*
+&nbsp; &nbsp; *[View My CV](./Sayed_Elmahdy_DotNet_Developer_Resume.pdf)*
 
 ---
 
