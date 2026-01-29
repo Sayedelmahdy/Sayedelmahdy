@@ -42,8 +42,7 @@ I enjoy building scalable systems (ERP / e-commerce), designing clean architectu
 - 🧠 **Focus**: ASP.NET Core, APIs, SQL Server, Clean Architecture, Integration-heavy systems
 - 🛡️ **Security**: Secure coding & OWASP Top 10 awareness (authorization, input validation, API hardening)
 
-> **Status:** Military Service (Egypt) — Feb 2025 to Mar 2026 (Ongoing)  
-> I continue contributing to official internal systems and personal projects during this period.
+
 
 &nbsp; &nbsp; *[View My CV](./Sayed_Elmahdy_DotNet_Developer_Resume.pdf)*
 
