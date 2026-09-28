@@ -1,22 +1,76 @@
 <a href="https://sayed-elmahdy.sayed-work223.workers.dev">
-  <img src="./banner.png" alt="Sayed Elmahdy · I build .NET software that real businesses run on" width="100%">
+  <img src="./hero.svg" alt="Sayed Elmahdy · I build .NET software that real businesses run on" width="100%">
 </a>
 
 <p align="center">
-  <a href="https://sayed-elmahdy.sayed-work223.workers.dev"><img src="https://img.shields.io/badge/Portfolio-Live-f0b449?style=flat-square&labelColor=1c1a17" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/sayed-elmahdy365/"><img src="https://img.shields.io/badge/LinkedIn-Connect-f0b449?style=flat-square&labelColor=1c1a17&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sayed.work223@gmail.com"><img src="https://img.shields.io/badge/Email-sayed.work223%40gmail.com-f0b449?style=flat-square&labelColor=1c1a17&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://wa.me/201093307397"><img src="https://img.shields.io/badge/WhatsApp-Chat-f0b449?style=flat-square&labelColor=1c1a17&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://sayed-elmahdy.sayed-work223.workers.dev"><img src="https://img.shields.io/badge/Portfolio-open_it-f0b449?style=for-the-badge&labelColor=1c1a17" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/sayed-elmahdy365/"><img src="https://img.shields.io/badge/LinkedIn-connect-f0b449?style=for-the-badge&labelColor=1c1a17&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sayed.work223@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-f0b449?style=for-the-badge&labelColor=1c1a17&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/201093307397"><img src="https://img.shields.io/badge/WhatsApp-chat-f0b449?style=for-the-badge&labelColor=1c1a17&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://sayed-elmahdy.sayed-work223.workers.dev/assets/Sayed_Elmahdy_CV.pdf"><img src="https://img.shields.io/badge/CV-download-f0b449?style=for-the-badge&labelColor=1c1a17&logo=readdotcv&logoColor=white" alt="CV"></a>
 </p>
 
-### Hi, I'm Sayed 👋
+<img src="./terminal.svg" alt="Terminal: whoami, focus, tests passing and the three live stores" width="100%">
 
-A **mid-level software engineer** in Cairo with 2.5 years of shipping complete systems in **ASP.NET Core**: Web APIs, MVC applications, dashboards and integrations.
+## 🟢 Shipped & running in production
 
-Right now I work at **Z4U** on a multi-tenant ERP and e-commerce platform that serves three live stores from one codebase.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sayed-elmahdy.sayed-work223.workers.dev/#production"><img src="./cards/elabrar.png" alt="El Abrar Store admin: watch the walkthrough" width="100%"></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sayed-elmahdy.sayed-work223.workers.dev/#gallery"><img src="./cards/hotel.png" alt="Cairo Airport staff management system" width="100%"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sayed-elmahdy.sayed-work223.workers.dev/#gallery"><img src="./cards/elburhan.png" alt="El Burhan Academy CRM" width="100%"></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sayed-elmahdy.sayed-work223.workers.dev/#gallery"><img src="./cards/whatsapp.png" alt="WhatsApp SaaS platform" width="100%"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sayedelmahdy/-moi-conscript-affairs-docs"><img src="./cards/military.png" alt="Conscript Affairs System, Ministry of Interior" width="100%"></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Sayedelmahdy/Elmahdy-Relay"><img src="./cards/relay.png" alt="Elmahdy Relay IoT firmware" width="100%"></a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>What's under the hood of the live stores</b></summary>
+<br>
+
+| | |
+|---|---|
+| 🏗️ **Platform** | One multi-tenant ASP.NET Core 8 API, each tenant with its own brand, database and domain |
+| 💳 **Payments** | 18 gateways behind one adapter (Paymob, Tabby, MyFatoorah, PayPal…), secrets sealed per tenant |
+| 🚚 **Shipping** | Pluggable carriers: Aramex (SOAP / WCF), SMSA, weight-based rates, map-first addresses |
+| 🔄 **ERP sync** | Items, stock and prices flow ERP → store through an outbox worker |
+| ⏱️ **Jobs** | Hangfire: invoices, notifications and a 15-minute payment reconciliation sweep |
+| ✅ **Quality** | ~1,900 automated tests · GitHub Actions deploys per tenant · Docker on Linux behind Cloudflare |
+
+</details>
+
+## 🧰 Toolbox
+
+<p>
+  <b>Every day</b><br><br>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,redis,docker,githubactions,linux,nginx,cloudflare,postman,git&theme=dark" alt="C#, .NET, Visual Studio, Redis, Docker, GitHub Actions, Linux, Nginx, Cloudflare, Postman, Git">
+</p>
+<p>
+  <b>When the job needs it</b><br><br>
+  <img src="https://skillicons.dev/icons?i=js,jquery,bootstrap,react,nextjs,nodejs,py,fastapi,cpp,flutter,mysql&theme=dark" alt="JavaScript, jQuery, Bootstrap, React, Next.js, Node.js, Python, FastAPI, C++, Flutter, MySQL">
+</p>
+<sub>Plus SQL Server, EF Core, Dapper, SignalR, Hangfire, QuestPDF, EPPlus, xUnit, k6, Serilog and Seq.</sub>
+
+## 🌱 Career, as a git log
 
 ```text
-$ git log --oneline --graph
 * a7f3e21 (HEAD -> main) Rejoined Z4U full-time as .NET Developer        Feb 2026 · now
 *   5d0c9b4 Merge service: completed military service                    Feb 2026
 |\
@@ -27,43 +81,10 @@ $ git log --oneline --graph
 * 0f9a13c (tag: v1.0) B.Sc. Computer Science, El Shorouk Academy         2024
 ```
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sayedelmahdy/Sayedelmahdy/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sayedelmahdy/Sayedelmahdy/output/snake-light.svg">
+  <img alt="Contribution graph eaten by an amber snake" src="https://raw.githubusercontent.com/Sayedelmahdy/Sayedelmahdy/output/snake.svg" width="100%">
+</picture>
 
-### 🟢 In production
-
-| Store | What it runs on |
-|---|---|
-| [lukaonlinestore.com](https://lukaonlinestore.com) | Multi-tenant ASP.NET Core 8 API · SQL Server · Hangfire · Redis |
-| [elabrar-store.com](https://elabrar-store.com) | Same platform, own brand, database and domain · [watch the admin walkthrough](https://sayed-elmahdy.sayed-work223.workers.dev/#production) |
-| [alazharionline.com](https://alazharionline.com) | Same platform · Docker on Linux behind Cloudflare |
-
-**Under the hood:** 18 payment gateways behind one adapter (Paymob, Tabby, MyFatoorah, PayPal…) with sealed per-tenant secrets · pluggable shipping (Aramex SOAP, SMSA) · ERP ↔ store sync through an outbox · ~1,900 automated tests · GitHub Actions deploys per tenant.
-
-### 🧩 Selected work
-
-- **[ERP + E-Commerce platform](https://github.com/Sayedelmahdy/erp-ecommerce-platform-overview)**: one .NET 8 API for catalog, inventory, finance and the online store.
-- **[Facebook Messenger Campaign API](https://github.com/Sayedelmahdy/fb-messenger-campaign-api)**: OAuth page connect, scheduled campaigns, webhooks and live SignalR updates.
-- **[Conscript Affairs System](https://github.com/Sayedelmahdy/-moi-conscript-affairs-docs)**: Ministry of Interior system built during military service. Redacted docs and certificate.
-- **Cairo Airport Staff Management**: Arabic-first attendance, shifts and leave with 2FA and audit logs.
-- **[Elmahdy Relay](https://github.com/Sayedelmahdy/Elmahdy-Relay)**: ESP8266 smart relay firmware with MQTT, Home Assistant, PWA and OTA.
-- **[GameFix Doctor Pro](https://github.com/Sayedelmahdy/GameFixDoctorPro)**: Windows diagnostics tool for gamers.
-
-➡️ Screens from every project are in the [portfolio gallery](https://sayed-elmahdy.sayed-work223.workers.dev/#gallery).
-
-### 🛠️ Stack
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-1c1a17?style=for-the-badge&logo=dotnet&logoColor=f0b449" alt="C#">
-  <img src="https://img.shields.io/badge/ASP.NET_Core_6--10-1c1a17?style=for-the-badge&logo=dotnet&logoColor=f0b449" alt="ASP.NET Core">
-  <img src="https://img.shields.io/badge/SQL_Server-1c1a17?style=for-the-badge&logo=microsoftsqlserver&logoColor=f0b449" alt="SQL Server">
-  <img src="https://img.shields.io/badge/EF_Core-1c1a17?style=for-the-badge&logo=dotnet&logoColor=f0b449" alt="EF Core">
-  <img src="https://img.shields.io/badge/Redis-1c1a17?style=for-the-badge&logo=redis&logoColor=f0b449" alt="Redis">
-  <img src="https://img.shields.io/badge/SignalR-1c1a17?style=for-the-badge&logo=dotnet&logoColor=f0b449" alt="SignalR">
-  <img src="https://img.shields.io/badge/Hangfire-1c1a17?style=for-the-badge&logoColor=f0b449" alt="Hangfire">
-  <img src="https://img.shields.io/badge/Docker-1c1a17?style=for-the-badge&logo=docker&logoColor=f0b449" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub_Actions-1c1a17?style=for-the-badge&logo=githubactions&logoColor=f0b449" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Cloudflare-1c1a17?style=for-the-badge&logo=cloudflare&logoColor=f0b449" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/xUnit-1c1a17?style=for-the-badge&logoColor=f0b449" alt="xUnit">
-</p>
-
-<p align="center"><sub>Open to software engineering roles · Cairo, Egypt · <a href="https://sayed-elmahdy.sayed-work223.workers.dev/assets/Sayed_Elmahdy_CV.pdf">Download CV</a></sub></p>
+<p align="center"><sub>Open to software engineering roles · Cairo, Egypt (GMT+2/+3) · usually replies within a day</sub></p>

@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+  <title id="t">Sayed Elmahdy · Software Engineer (.NET)</title>
+  <desc id="d">I build .NET software that real businesses run on. Three live stores on one multi-tenant platform.</desc>
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="15%" r="60%">
+      <stop offset="0" stop-color="#f0b449" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#f0b449" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shine" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="420" rx="22"/></clipPath>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#f4f0e8" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <style>
+    .sans { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+    .up { opacity: 0; animation: up .9s cubic-bezier(.16,1,.3,1) forwards; }
+    @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    .d1 { animation-delay: .1s } .d2 { animation-delay: .3s } .d3 { animation-delay: .5s } .d4 { animation-delay: .7s } .d5 { animation-delay: .9s }
+    /* pipeline: each stage lights in turn, then the whole thing loops */
+    .rail { stroke-dasharray: 360; stroke-dashoffset: 360; animation: rail 6s cubic-bezier(.65,0,.35,1) 1.2s infinite; }
+    @keyframes rail { 0% { stroke-dashoffset: 360 } 55%, 90% { stroke-dashoffset: 0 } 100% { stroke-dashoffset: 0; opacity: 0 } }
+    .st { animation: st 6s ease 1.2s infinite; fill: #1c1a17; }
+    .s2 { animation-delay: 2s } .s3 { animation-delay: 2.8s }
+    @keyframes st { 0%, 5% { fill: #1c1a17 } 12%, 90% { fill: #f0b449 } 100% { fill: #1c1a17 } }
+    .live { animation: live 6s ease 3.6s infinite; fill: #1c1a17; }
+    @keyframes live { 0%, 3% { fill: #1c1a17 } 8%, 88% { fill: #78d696 } 100% { fill: #1c1a17 } }
+    .ring { transform-box: fill-box; transform-origin: center; animation: ring 2.2s ease-out infinite; }
+    @keyframes ring { from { transform: scale(1); opacity: .7 } to { transform: scale(2.6); opacity: 0 } }
+    .r2 { animation-delay: .7s } .r3 { animation-delay: 1.4s }
+    .caret { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    .sweep { animation: sweep 7s ease-in-out 2s infinite; }
+    @keyframes sweep { 0% { transform: translateX(-300px) } 25%, 100% { transform: translateX(1500px) } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="420" fill="#1c1a17"/>
+    <rect width="1200" height="420" fill="url(#grid)"/>
+    <rect width="1200" height="420" fill="url(#glow)"/>
+    <rect class="sweep" x="0" y="0" width="160" height="420" fill="url(#shine)" opacity=".05" transform="skewX(-18)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="419" rx="22" fill="none" stroke="#f4f0e8" stroke-opacity=".12"/>
+
+  <!-- left: identity -->
+  <g class="up d1">
+    <line x1="64" y1="74" x2="92" y2="74" stroke="#f0b449" stroke-width="2"/>
+    <text x="104" y="79" class="mono" font-size="15" fill="#f0b449">Software Engineer · .NET · Cairo</text>
+  </g>
+  <g class="up d2">
+    <text x="62" y="146" class="sans" font-size="54" font-weight="800" letter-spacing="-2" fill="#f4f0e8">Sayed Elmahdy</text>
+  </g>
+  <g class="up d3">
+    <text x="64" y="196" class="sans" font-size="27" font-weight="600" fill="#cfc8bb">I build .NET software that <tspan fill="#f0b449">real businesses</tspan> run on.</text>
+  </g>
+  <g class="up d4">
+    <text x="64" y="240" class="mono" font-size="15" fill="#8f877a">ASP.NET Core 6–10 · Web API · MVC · SQL Server · Hangfire · Multi-tenant SaaS<tspan class="caret" fill="#f0b449"> ▍</tspan></text>
+  </g>
+
+  <!-- left bottom: live stores -->
+  <g class="up d5" font-size="14">
+    <g transform="translate(64 312)">
+      <rect width="206" height="40" rx="10" fill="#26231f" stroke="#f4f0e8" stroke-opacity=".12"/>
+      <circle class="ring" cx="20" cy="20" r="5" fill="#78d696"/><circle cx="20" cy="20" r="5" fill="#78d696"/>
+      <text x="36" y="25" class="mono" fill="#e6dfd2">lukaonlinestore.com</text>
+    </g>
+    <g transform="translate(282 312)">
+      <rect width="190" height="40" rx="10" fill="#26231f" stroke="#f4f0e8" stroke-opacity=".12"/>
+      <circle class="ring r2" cx="20" cy="20" r="5" fill="#78d696"/><circle cx="20" cy="20" r="5" fill="#78d696"/>
+      <text x="36" y="25" class="mono" fill="#e6dfd2">elabrar-store.com</text>
+    </g>
+    <g transform="translate(484 312)">
+      <rect width="200" height="40" rx="10" fill="#26231f" stroke="#f4f0e8" stroke-opacity=".12"/>
+      <circle class="ring r3" cx="20" cy="20" r="5" fill="#78d696"/><circle cx="20" cy="20" r="5" fill="#78d696"/>
+      <text x="36" y="25" class="mono" fill="#e6dfd2">alazharionline.com</text>
+    </g>
+    <text x="64" y="382" class="sans" fill="#8f877a" font-size="14">Three live stores · one multi-tenant ASP.NET Core platform</text>
+  </g>
+
+  <!-- right: monogram + deployment pipeline -->
+  <g class="up d3">
+    <rect x="928" y="62" width="184" height="184" rx="42" fill="#f0b449"/>
+    <text x="1020" y="182" text-anchor="middle" class="sans" font-size="82" font-weight="800" letter-spacing="-4" fill="#2a2116">SE</text>
+  </g>
+  <g class="up d5">
+    <line x1="880" y1="316" x2="1160" y2="316" stroke="#f4f0e8" stroke-opacity=".14" stroke-width="2"/>
+    <line class="rail" x1="880" y1="316" x2="1160" y2="316" stroke="#f0b449" stroke-width="2"/>
+    <g class="mono" font-size="13" text-anchor="middle">
+      <circle cx="880" cy="316" r="8" class="st" stroke="#f0b449" stroke-width="2"/>
+      <text x="880" y="346" fill="#8f877a">build</text>
+      <circle cx="973" cy="316" r="8" class="st s2" stroke="#f0b449" stroke-width="2"/>
+      <text x="973" y="346" fill="#8f877a">test</text>
+      <circle cx="1066" cy="316" r="8" class="st s3" stroke="#f0b449" stroke-width="2"/>
+      <text x="1066" y="346" fill="#8f877a">deploy</text>
+      <circle cx="1160" cy="316" r="8" class="live" stroke="#78d696" stroke-width="2"/>
+      <text x="1160" y="346" fill="#78d696">live</text>
+    </g>
+    <text x="1160" y="382" text-anchor="end" class="mono" font-size="13" fill="#6f685c">✓ ~1,900 tests · deployed by GitHub Actions</text>
+  </g>
+</svg>
