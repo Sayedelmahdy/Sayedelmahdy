@@ -1,13 +1,13 @@
-<a href="https://sayed-elmahdy.sayed-work223.workers.dev">
+<a href="https://sayed-elmahdy.pages.dev">
   <img src="./hero.svg" alt="Sayed Elmahdy · I build .NET software that real businesses run on" width="100%">
 </a>
 
 <p align="center">
-  <a href="https://sayed-elmahdy.sayed-work223.workers.dev"><img src="https://img.shields.io/badge/Portfolio-open_it-f0b449?style=for-the-badge&labelColor=1c1a17" alt="Portfolio"></a>
+  <a href="https://sayed-elmahdy.pages.dev"><img src="https://img.shields.io/badge/Portfolio-open_it-f0b449?style=for-the-badge&labelColor=1c1a17" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/sayed-elmahdy365/"><img src="https://img.shields.io/badge/LinkedIn-connect-f0b449?style=for-the-badge&labelColor=1c1a17&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sayed.work223@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-f0b449?style=for-the-badge&labelColor=1c1a17&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://wa.me/201093307397"><img src="https://img.shields.io/badge/WhatsApp-chat-f0b449?style=for-the-badge&labelColor=1c1a17&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://sayed-elmahdy.sayed-work223.workers.dev/assets/Sayed_Elmahdy_CV.pdf"><img src="https://img.shields.io/badge/CV-download-f0b449?style=for-the-badge&labelColor=1c1a17&logo=readdotcv&logoColor=white" alt="CV"></a>
+  <a href="https://sayed-elmahdy.pages.dev/assets/Sayed_Elmahdy_CV.pdf"><img src="https://img.shields.io/badge/CV-download-f0b449?style=for-the-badge&labelColor=1c1a17&logo=readdotcv&logoColor=white" alt="CV"></a>
 </p>
 
 <img src="./terminal.svg" alt="Terminal: whoami, focus, tests passing and the three live stores" width="100%">
@@ -17,18 +17,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://sayed-elmahdy.sayed-work223.workers.dev/#production"><img src="./cards/elabrar.png" alt="El Abrar Store admin: watch the walkthrough" width="100%"></a>
+      <a href="https://sayed-elmahdy.pages.dev/#production"><img src="./cards/elabrar.png" alt="El Abrar Store admin: watch the walkthrough" width="100%"></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://sayed-elmahdy.sayed-work223.workers.dev/#gallery"><img src="./cards/hotel.png" alt="Cairo Airport staff management system" width="100%"></a>
+      <a href="https://sayed-elmahdy.pages.dev/#gallery"><img src="./cards/hotel.png" alt="Cairo Airport staff management system" width="100%"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://sayed-elmahdy.sayed-work223.workers.dev/#gallery"><img src="./cards/elburhan.png" alt="El Burhan Academy CRM" width="100%"></a>
+      <a href="https://sayed-elmahdy.pages.dev/#gallery"><img src="./cards/elburhan.png" alt="El Burhan Academy CRM" width="100%"></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://sayed-elmahdy.sayed-work223.workers.dev/#gallery"><img src="./cards/whatsapp.png" alt="WhatsApp SaaS platform" width="100%"></a>
+      <a href="https://sayed-elmahdy.pages.dev/#gallery"><img src="./cards/whatsapp.png" alt="WhatsApp SaaS platform" width="100%"></a>
     </td>
   </tr>
   <tr>

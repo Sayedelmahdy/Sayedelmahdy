@@ -18,7 +18,7 @@
         dur="16.0s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath><clipPath id="c8"><rect x="60" y="294" height="30" width="0">
       <animate attributeName="width" values="0;0;147;147;0" keyTimes="0;0.6062;0.6500;0.97;1"
         dur="16.0s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath><clipPath id="c9"><rect x="34" y="324" height="30" width="0">
-      <animate attributeName="width" values="0;0;391;391;0" keyTimes="0;0.6750;0.7063;0.97;1"
+      <animate attributeName="width" values="0;0;246;246;0" keyTimes="0;0.6750;0.7063;0.97;1"
         dur="16.0s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath></defs>
   <rect x=".5" y=".5" width="1199" height="413" rx="18" fill="#161412" stroke="#f4f0e8" stroke-opacity=".12"/>
   <path d="M.5 44 H1199.5" stroke="#f4f0e8" stroke-opacity=".08"/>
@@ -30,7 +30,7 @@
           keyTimes="0;0.1344;0.1375;0.97;1" dur="16.0s" repeatCount="indefinite"/></text><text x="62" y="134" fill="#f4f0e8" clip-path="url(#c2)">cat focus.txt</text><text x="36" y="164" fill="#cfc8bb" clip-path="url(#c3)">multi-tenant SaaS · ERP ↔ e-commerce · payments &amp; shipping integrations · background jobs</text><text x="36" y="194" fill="#f0b449" opacity="0">$<animate attributeName="opacity" values="0;0;1;1;0"
           keyTimes="0;0.2719;0.2750;0.97;1" dur="16.0s" repeatCount="indefinite"/></text><text x="62" y="194" fill="#f4f0e8" clip-path="url(#c4)">dotnet test</text><text x="36" y="224" fill="#78d696" clip-path="url(#c5)">Passed!  Failed: 0  ·  Passed: ~1,900  ·  Skipped: 0</text><text x="36" y="254" fill="#f0b449" opacity="0">$<animate attributeName="opacity" values="0;0;1;1;0"
           keyTimes="0;0.4344;0.4375;0.97;1" dur="16.0s" repeatCount="indefinite"/></text><text x="62" y="254" fill="#f4f0e8" clip-path="url(#c6)">healthcheck --stores</text><text x="36" y="284" fill="#78d696" clip-path="url(#c7)">● lukaonlinestore.com  200   ● elabrar-store.com  200   ● alazharionline.com  200</text><text x="36" y="314" fill="#f0b449" opacity="0">$<animate attributeName="opacity" values="0;0;1;1;0"
-          keyTimes="0;0.6031;0.6062;0.97;1" dur="16.0s" repeatCount="indefinite"/></text><text x="62" y="314" fill="#f4f0e8" clip-path="url(#c8)">open portfolio</text><text x="36" y="344" fill="#f0b449" clip-path="url(#c9)">→ sayed-elmahdy.sayed-work223.workers.dev</text><text x="36" y="374" fill="#f0b449" opacity="0">$<animate attributeName="opacity" values="0;0;1;1;0"
+          keyTimes="0;0.6031;0.6062;0.97;1" dur="16.0s" repeatCount="indefinite"/></text><text x="62" y="314" fill="#f4f0e8" clip-path="url(#c8)">open portfolio</text><text x="36" y="344" fill="#f0b449" clip-path="url(#c9)">→ sayed-elmahdy.pages.dev</text><text x="36" y="374" fill="#f0b449" opacity="0">$<animate attributeName="opacity" values="0;0;1;1;0"
   keyTimes="0;0.7188;0.7219;0.97;1" dur="16.0s" repeatCount="indefinite"/></text>
 <rect x="58" y="359" width="9" height="19" fill="#f0b449" opacity="0">
   <animate attributeName="opacity" values="0;0;1;0;1;0;1;0;1;0" keyTimes="0;0.7188;0.7500;0.7875;0.8250;0.8625;0.9000;0.9375;0.9625;1"
