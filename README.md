@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://sayed-elmahdy.pages.dev/#production"><img src="./cards/elabrar.png" alt="El Abrar Store admin: watch the walkthrough" width="100%"></a>
+      <a href="https://sayed-elmahdy.pages.dev/#production"><img src="./cards/admin.png" alt="Z4U Store admin platform: watch the walkthrough (demo data)" width="100%"></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://sayed-elmahdy.pages.dev/#gallery"><img src="./cards/hotel.png" alt="Cairo Airport staff management system" width="100%"></a>
